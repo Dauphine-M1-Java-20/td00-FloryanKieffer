@@ -1,0 +1,53 @@
+Floryan KIEFFER
+
+TD00
+
+Exercice 1:
+4)
+mvn -v 
+Version --> Apache Maven 3.6.3 
+
+6)
+
+7)
+Le fichier se trouve dans le dossier src/main/java/fr/dauphine/ja/kiefferfloryan/td00/
+
+8)
+Classpath est un paramètre passé à une VM qui définit le chemin d'accès au répertoire où se trouvent les classes et les packages afin que cette dernière les exécute.
+
+
+13)
+<maven.compiler.target>1.8</maven.compiler.target>
+Cette nouvelle propriété permet de spécifier la version du compilateur Java utilisée pour compiler les cibles.
+
+Exercice 2:
+1)
+no main manifest attribute, in target/td00-1.0-SNAPSHOT.jar
+
+Exercice 3:
+3) 
+C'est un raccourcie qui permet d'afficher System.out.println();
+
+4)
+Raccourcie vers la method toString()
+
+5)
+Raccourcie vers la method main
+public static void main(String[] args) {
+		
+	}
+6)
+Raccourcie pour créer les guetteurs et setteurs de(s) attribut(s)
+
+7)
+Permet le rennomage la classe ou l'attribut sélectionné partout où il apparait dans le code
+
+TD00 BIS
+
+Ecercice 1:
+5)
+On observe une ligne verte (nouvelle ligne) et une ligne rouge (ancienne ligne). Cela permet d'observer toutes les différences apportées aux fichiers.
+
+Exercice 2:
+3)
+Il est représenté par master---remote/origin/master

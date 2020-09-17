@@ -51,3 +51,5 @@ On observe une ligne verte (nouvelle ligne) et une ligne rouge (ancienne ligne).
 Exercice 2:
 3)
 Il est représenté par master---remote/origin/master
+
+4)

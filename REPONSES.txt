@@ -1,4 +1,4 @@
-Floryan KIEFFER M1
+Floryan KIEFFER M1 MIAGE
 
 TD00
 
@@ -42,6 +42,9 @@ Raccourcie pour créer les guetteurs et setteurs de(s) attribut(s)
 7)
 Permet le rennomage la classe ou l'attribut sélectionné partout où il apparait dans le code
 
+8)
+Le code source de la classe String s'ouvre
+
 TD00 BIS
 
 Ecercice 1:
@@ -52,4 +55,10 @@ Exercice 2:
 3)
 Il est représenté par master---remote/origin/master
 
-4)
+5)Le commit est refusé car dans ce dépôt il y à un commit de retard. Il faut récupérer le dernier commit puis le fusionner et envoyer le tout au serveur.
+
+7)Le commit sera refusé car il y aura présence d'un conflit. Il faudra le résoudre pour qu'il soit possible à nouveau de faire un commit.
+
+Exercice 3:
+
+

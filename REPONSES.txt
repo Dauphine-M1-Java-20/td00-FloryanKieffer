@@ -61,4 +61,6 @@ Il est représenté par master---remote/origin/master
 
 Exercice 3:
 
+2)Les tests sont OK lorsqu'on les lancent.Lorsqu'on met false à la place de true le test est en échec ce qui est normal. AssertTrue() vérifie que ce qui est passé en paramètre est true. Cela peut être un test ou une fonction renvoyant un booléen ou encore un booléen tout simplement.
+
 

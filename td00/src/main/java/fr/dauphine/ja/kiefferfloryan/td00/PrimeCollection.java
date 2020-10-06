@@ -1,7 +1,6 @@
 package fr.dauphine.ja.kiefferfloryan.td00;
 
 import java.util.ArrayList;
-import java.util.Random;
 
 /**
  * Bonjour!
@@ -24,9 +23,14 @@ public class PrimeCollection
 	}
 	
 	public boolean isPrime(int p) {
-		for(int i = 2; i<p/2;i++) {
-			if(p%i==0) {
-				return false;
+		if(p==0) {
+			return false;
+		}
+		else {
+			for(int i = 2; i<p/2;i++) {
+				if(p%i==0) {
+					return false;
+				}
 			}
 		}
 		return true;
